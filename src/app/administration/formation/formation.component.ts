@@ -10,7 +10,7 @@ export class FormationComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-   // console.log("hello777777777");
+    console.log("hello777777777");
   }
 
 }
